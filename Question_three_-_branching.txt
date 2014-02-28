@@ -1,0 +1,7 @@
+Question:
+
+Explain what a branch is, in your own words.
+
+Answer:
+
+A "branch" is a 'stream' (set of files/folder) which run in parallel to a the "main/master" stream of a repository. A special pointer called "HEAD" keeps track of the latest updates/upload. The HEAD may or may not point to the same updates on the Master and in the Branch. The advantage of that is that, a developer can carry on doing work and making changes in the branch without affecting the files/behaviour on the master stream. 
