@@ -1,0 +1,9 @@
+Question:
+
+	Explain what git clone does, in your own words.
+
+Answer:
+
+	Cloning a git repo will make/download a local exact copy of the folder/files present in that repo. Special care shouls be taken as to avoid unnecessary nesting. 
+
+	Also, there might be the risk of file/folder overwriting if there is already a folder with the same name as the repo being cloned. 
