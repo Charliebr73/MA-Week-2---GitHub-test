@@ -1,0 +1,9 @@
+Question:
+
+	Explain what the "upstream" remote is used for, in your own words. 
+
+Answer:
+
+	In the GitHub "forking" context, an "upstream" repository is the orginal used for the forking. 
+
+	In order to add the idea of "upstream" into a pratical context, let's imagine we would like to do some work with an open source project. I will use Joomla! as an example. When we fork the Joomla!, the original repository will be denominated "upstream" whereas the copy(fork) we made will receive the denomination "origin". We made changes to the "origin", our forked repository, and "upstream" those changes to Joomla!'s repository.
